@@ -4,8 +4,8 @@
 
 </div>
 
-# StoneEYE
-HI GUYS I Write Simple BASH Code For Watch bug bounty targets UPdates LIST Every 25 minutes.
+# SilverScan
+Tools For control server Scan with Telegram bot 
 
 
 <h2>Required Tools</h2>
